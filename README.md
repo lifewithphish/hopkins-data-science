@@ -1,3 +1,1 @@
-"# hopkins-data-science" 
-"# hopkins-data-science" 
-"# hopkins-data-science" 
+#Repo to store all code associated with the Johns Hopkins University Data Science course of Coursera.
